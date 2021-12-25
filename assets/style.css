@@ -15,6 +15,11 @@
     --main-bg-color: #C6C5B9;
     --main-border-color:#393d3f;
 }
+.ul {
+     list-style-type: style type none;
+   text-decoration: none;
+   color:blue;
+}
 
 header {
     border-width: 50px; 
@@ -43,9 +48,8 @@ flex-direction: row;
 }
 
 .Links {
-   list-style-type: style type none;
-   text-decoration: none;color: rgb(25, 0, 255); 
-   color:rgb(36, 196, 44);
+   rgb (25, 0, 255); 
+   color:rgb(44, 49, 45);
     background-color: #7d8597ff;
     font-weight: 600;
     font-size: 30px;
