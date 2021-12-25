@@ -10,11 +10,11 @@
 --roman-silver: #7d8597ff;
 --manatee: #979dacff; */
 
-:root {
+/* :root {
     background-color:#33415cff ;
     --main-bg-color: #C6C5B9;
     --main-border-color:#393d3f;
-}
+} */
 
 header {
     border-width: 50px; 
