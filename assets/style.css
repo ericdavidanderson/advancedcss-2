@@ -43,6 +43,8 @@ flex-direction: row;
 }
 
 .Links {
+   list-style-type: style type none;
+   text-decoration: none;color: rgb(25, 0, 255); 
    color:rgb(36, 196, 44);
     background-color: #7d8597ff;
     font-weight: 600;
